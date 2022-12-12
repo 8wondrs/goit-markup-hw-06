@@ -744,9 +744,9 @@ ul {
 	margin-left: 4px;
 }
 
-/* .form-checkbox:focus+.form-label.policy::before {
+.form-checkbox:focus+.form-label.policy::before {
 	border: 1.25px solid var(--brand-color);
-} */
+}
 
 .subscribe {
 	margin-left: 80px;
