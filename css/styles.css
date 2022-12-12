@@ -653,6 +653,7 @@ ul {
 
 .form-input-wrapper {
 	position: relative;
+	display: block;
 	margin-bottom: 8px;
 }
 
@@ -686,6 +687,7 @@ ul {
 }
 
 .form-textarea-wrapper {
+	display: block;
 	margin-bottom: 16px;
 }
 
