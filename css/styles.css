@@ -723,7 +723,6 @@ ul {
 }
 
 .form-label.policy::before {
-	display: block;
 	content: '';
 	width: 16px;
 	height: 16px;
